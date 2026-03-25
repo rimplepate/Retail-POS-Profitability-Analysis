@@ -1,6 +1,5 @@
 # Retail-POS-Profitability-Analysis
 
- 📊 Project Overview
 This project analyzes a retail store's Point-of-Sale (POS) and inventory data to identify the root causes of declining profitability after increased inventory purchases.
 
 🎯 Business Problem
